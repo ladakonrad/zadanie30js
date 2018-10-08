@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+    font-family: Arial;
+    font-size: 25px;
+    text-align: center;
+    color: cornsilk; 
+}
+
+h1 {
+    color: cornsilk;
+}
+
+button {
+    border: 3px solid green;
+    padding: 20px;
+    background-color: darkorange;
+    font-weight: bold;
+    margin: 30px;
+}
